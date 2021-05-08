@@ -3,6 +3,8 @@ To Run this :-
 
 clone the repo
 
+                   git clone https://github.com/asce0/Trufla_Task.git
+
 Go to the Trufla Task folder
 
                    cd  Trufla Task
